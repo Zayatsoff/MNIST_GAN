@@ -1,6 +1,6 @@
 # Simple Generative Adversarial Network trained on the MNIST dataset
 
-![This is an image](https://i.imgur.com/QnkqnuI.gif)
+![Gif](./GAN.gif)
 
 ### Code
 * Discriminator:
