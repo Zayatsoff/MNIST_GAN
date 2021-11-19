@@ -19,3 +19,6 @@
  * MNIST
   * http://yann.lecun.com/exdb/mnist/ 
 
+#I followed the amazing ![tutorial](https://www.youtube.com/watch?v=OljTVUVzPpM) by  Aladdin Persson!
+ 
+
